@@ -1,0 +1,17 @@
+C:\Users\Özgür\VeloGamesInternshipTask1\VeloGamesInternshipTask1\VeloGamesInternshipTask1\obj\Debug\net6.0\VeloGamesInternshipTask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Özgür\VeloGamesInternshipTask1\VeloGamesInternshipTask1\VeloGamesInternshipTask1\obj\Debug\net6.0\VeloGamesInternshipTask1.AssemblyInfoInputs.cache
+C:\Users\Özgür\VeloGamesInternshipTask1\VeloGamesInternshipTask1\VeloGamesInternshipTask1\obj\Debug\net6.0\VeloGamesInternshipTask1.AssemblyInfo.cs
+C:\Users\Özgür\VeloGamesInternshipTask1\VeloGamesInternshipTask1\VeloGamesInternshipTask1\obj\Debug\net6.0\VeloGamesInternshipTask1.csproj.CoreCompileInputs.cache
+C:\Users\Özgür\VeloGamesInternshipTask1\VeloGamesInternshipTask1\VeloGamesInternshipTask1\bin\Debug\net6.0\VeloGamesInternshipTask1.exe
+C:\Users\Özgür\VeloGamesInternshipTask1\VeloGamesInternshipTask1\VeloGamesInternshipTask1\bin\Debug\net6.0\VeloGamesInternshipTask1.deps.json
+C:\Users\Özgür\VeloGamesInternshipTask1\VeloGamesInternshipTask1\VeloGamesInternshipTask1\bin\Debug\net6.0\VeloGamesInternshipTask1.runtimeconfig.json
+C:\Users\Özgür\VeloGamesInternshipTask1\VeloGamesInternshipTask1\VeloGamesInternshipTask1\bin\Debug\net6.0\VeloGamesInternshipTask1.dll
+C:\Users\Özgür\VeloGamesInternshipTask1\VeloGamesInternshipTask1\VeloGamesInternshipTask1\bin\Debug\net6.0\VeloGamesInternshipTask1.pdb
+C:\Users\Özgür\VeloGamesInternshipTask1\VeloGamesInternshipTask1\VeloGamesInternshipTask1\obj\Debug\net6.0\VeloGamesInternshipTask1.dll
+C:\Users\Özgür\VeloGamesInternshipTask1\VeloGamesInternshipTask1\VeloGamesInternshipTask1\obj\Debug\net6.0\refint\VeloGamesInternshipTask1.dll
+C:\Users\Özgür\VeloGamesInternshipTask1\VeloGamesInternshipTask1\VeloGamesInternshipTask1\obj\Debug\net6.0\VeloGamesInternshipTask1.pdb
+C:\Users\Özgür\VeloGamesInternshipTask1\VeloGamesInternshipTask1\VeloGamesInternshipTask1\obj\Debug\net6.0\VeloGamesInternshipTask1.genruntimeconfig.cache
+C:\Users\Özgür\VeloGamesInternshipTask1\VeloGamesInternshipTask1\VeloGamesInternshipTask1\obj\Debug\net6.0\ref\VeloGamesInternshipTask1.dll
+C:\Users\Özgür\VeloGamesInternshipTask1\VeloGamesInternshipTask1\VeloGamesInternshipTask1\obj\Debug\net6.0\VeloGamesInternshipTask1.csproj.AssemblyReference.cache
+C:\Users\Özgür\VeloGamesInternshipTask1\VeloGamesInternshipTask1\VeloGamesInternshipTask1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Özgür\VeloGamesInternshipTask1\VeloGamesInternshipTask1\VeloGamesInternshipTask1\obj\Debug\net6.0\VeloGamesInternshipTask1.csproj.CopyComplete
